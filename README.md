@@ -1,5 +1,5 @@
 # LeadIT
-kanako-110/LeadIT
+
 
 <h3>説明</h3>
 チームで開発しているアプリです。
